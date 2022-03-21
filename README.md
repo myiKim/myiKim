@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @myiKim, a Machine Learning enthusiast.
-- 👀 I’m interested in many different variants of Neural Rendering techniques.
+- 👀 I’m interested in various applications of Neural Rendering techniques.
 
 <!---
 myiKim/myiKim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
