@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @myiKim, a Machine Learning enthusiast.
 - 👀 I’m currently interested in 
--- Neural Rendering algorithms such as NeRF, variants of NeRF etc.
--- Generative Models such as GANs, VAEs etc.
+- -Neural Rendering algorithms such as NeRF, variants of NeRF etc.
+- -Generative Models such as GANs, VAEs etc.
 - reach me out, if you are interested in those topics.
 
 <!---
